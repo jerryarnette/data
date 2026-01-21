@@ -1,0 +1,51 @@
+utterance,sentiment
+I'd like to make a payment.,neutral
+I need to file a claim.,neutral
+I've been in an accident., neutral
+One of your insureds hit my car.,neutral
+One of your agents was rude to me!,negative
+Your customer service rep was great!,positive
+Can I speak to a supervisor?,neutral
+Why did my premium go up?,neutral
+I need to reinstate my policy.,neutral
+Would my insurance go down if my credit was better?,neutral
+Who is my agent?,neutral
+I need to extend my rental.,neutral
+Why don't I have uninsured motorist coverage anymore?,neutral
+Will my premium go down when my child turns 18?,neutral
+My car was vandalized.,neutral
+What's a VIN?,neutral
+When does my policy renew?,neutral
+What's the difference between property damage and collision?,neutral
+Do I get a bigger discount on the third car on my policy?,neutral
+What is a limit?,neutral
+I need to get proof of insurance so I can get my license renewed.,neutral
+What is this about my premiums being higher than what the state says I should be paying?,neutral
+Do you have a mobile app?,neutral
+Your mobile app sucks!,negative
+Will my premium go up if I start working for Uber?,neutral
+I can't make a payment through your automated phone system.,neutral
+That's cheaper than I thought it would be!,positive
+Why do I get faster responses in chat than on the phone?,neutral
+I need to verify coverage for one of your insureds.,neutral
+How do I become an agent for you?,neutral
+I need to get a production summary for 5 years and your website only shows 3.,negative
+Why didn't this person get the claims free discount?,neutral
+I can't enter a date of birth on a quote anymore.,neutral
+Why can't I get an MVR for California?,negative
+Why did your system try to put this person on my policy?,negative
+When do I get my cash for app bonus?,neutral
+Thank you for the contingency bonus!,positive
+You charged me for an MVR you shouldn't have.,negative
+I need help resetting my password.,neutral
+I don't know what email my password resets are going to.,neutral
+Can you tell me what CSR wrote a particular policy?,neutral
+I need to see if a payment was posted.,neutral
+When will my commissions be posted to my account?,neutral
+I have questions about my 1099.,neutral
+I never got the email for my esignature.,neutral
+Can you send that via text instead of email?,neutral
+I can't pull up this policy on your website.,neutral
+Why do I have to enter a term when taking a payment?,negative
+How do I know which term is the renewal?,neutral
+Why does the policy say it is active not yet in force?,neutral
