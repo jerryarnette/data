@@ -1,0 +1,51 @@
+utterance,intent
+I'd like to make a payment.,accounting
+I need to file a claim.,claims
+I've been in an accident.,claims
+One of your insureds hit my car.,claims
+One of your agents was rude to me!,feedback
+Your customer service rep was great!,feedback
+Can I speak to a supervisor?,feedback
+Why did my premium go up?,policy
+I need to reinstate my policy.,policy
+Would my insurance go down if my credit was better?,policy
+Who is my agent?,policy
+I need to extend my rental.,claims
+Why don't I have uninsured motorist coverage anymore?,policy
+Will my premium go down when my child turns 18?,policy
+My car was vandalized.,claims
+What's a VIN?,policy
+When does my policy renew?,policy
+What's the difference between property damage and collision?,policy
+Do I get a bigger discount on the third car on my policy?,policy
+What is a limit?,policy
+I need to get proof of insurance so I can get my license renewed.,policy
+What is this about my premiums being higher than what the state says I should be paying?,policy
+Do you have a mobile app?,general
+Your mobile app sucks!,feedback
+Will my premium go up if I start working for Uber?,policy
+I can't make a payment through your automated phone system.,accounting
+That's cheaper than I thought it would be!,feedback
+Why do I get faster responses in chat than on the phone?,feedback
+I need to verify coverage for one of your insureds.,policy
+How do I become an agent for you?,agency
+I need to get a production summary for 5 years and your website only shows 3.,agency
+Why didn't this person get the claims free discount?,policy
+I can't enter a date of birth on a quote anymore.,policy
+Why can't I get an MVR for California?,policy
+Why did your system try to put this person on my policy?,policy
+When do I get my cash for app bonus?,agency
+Thank you for the contingency bonus!,agency
+You charged me for an MVR you shouldn't have.,agency
+I need help resetting my password.,agency
+I don't know what email my password resets are going to.,agency
+Can you tell me what CSR wrote a particular policy?,agency
+I need to see if a payment was posted.,accounting
+When will my commissions be posted to my account?,agency
+I have questions about my 1099.,agency
+I never got the email for my esignature.,policy
+Can you send that via text instead of email?,policy
+I can't pull up this policy on your website.,policy
+Why do I have to enter a term when taking a payment?,accounting
+How do I know which term is the renewal?,policy
+Why does the policy say it is active not yet in force?,policy
